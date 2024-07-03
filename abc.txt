@@ -1,2 +1,2 @@
 New file added in repo
-Learning GITHUB
+Learning Github
